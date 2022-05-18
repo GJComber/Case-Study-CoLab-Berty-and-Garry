@@ -15,8 +15,9 @@ Wealth Management: Wealth Management provides superannuation, investment and ret
 New Zealand: New Zealand includes the banking and funds management businesses operating in New Zealand primarily under the ASB brand. ASB provides a range of banking, wealth and insurance products and services to its personal, business, rural and corporate customers in New Zealand.
 International Financial Services and Corporate Centre: International Financial Services (IFS) include the Indonesian retail and business banking operations (PT Bank Commonwealth), and minority investments in China (Bank of Hangzhou and Qilu Bank) and Vietnam (Vietnam International Bank).
 
-Company Profile: Commonwealth Bank of Australia Market Share
-![common wealth bank market share](https://user-images.githubusercontent.com/105048228/168997192-22de77ce-e22e-4d80-a5ed-af496ffeea30.png)
+###### Company Profile: Commonwealth Bank of Australia 
+![mark share](https://user-images.githubusercontent.com/105048228/169000900-fb2d2042-4bd9-4e4a-9905-d971b74443de.PNG)
+
 
 ###### The main competitors of Commonwealth Bank of Australia
 The main competitors of CBA are NAB, WBC and ANZ banks. As a market leader based on overall market capitalization CBA holds the market share of 41% while NAB, WBC and ANZ banks hold 23%, 20% and 16% respectively. However, these banks have different market share positions based on total number of domestic and overseas branches, automated teller machines, number of depositors and loans, banks focus of shifting to digital channels, increasing focus on internet and mobile banking and payment transactions etc. 
