@@ -21,6 +21,7 @@ International Financial Services and Corporate Centre: International Financial S
 
 ###### The main competitors of Commonwealth Bank of Australia
 The main competitors of CBA are NAB, WBC and ANZ banks. As a market leader based on overall market capitalization CBA holds the market share of 41% while NAB, WBC and ANZ banks hold 23%, 20% and 16% respectively. However, these banks have different market share positions based on total number of domestic and overseas branches, automated teller machines, number of depositors and loans, banks focus of shifting to digital channels, increasing focus on internet and mobile banking and payment transactions etc. 
+
 ![main competitors of com bank](https://user-images.githubusercontent.com/105048228/168997861-590b5ac5-4bd7-4326-a42f-eec6af997a4d.png)
 
           
