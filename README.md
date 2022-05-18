@@ -15,9 +15,7 @@ Wealth Management: Wealth Management provides superannuation, investment and ret
 New Zealand: New Zealand includes the banking and funds management businesses operating in New Zealand primarily under the ASB brand. ASB provides a range of banking, wealth and insurance products and services to its personal, business, rural and corporate customers in New Zealand.
 International Financial Services and Corporate Centre: International Financial Services (IFS) include the Indonesian retail and business banking operations (PT Bank Commonwealth), and minority investments in China (Bank of Hangzhou and Qilu Bank) and Vietnam (Vietnam International Bank).
 
-Company Profile: Commonwealth Bank of Australia
-Commonwealth Bank of Australia
-Market Capitalisation
+Company Profile: Commonwealth Bank of Australia Commonwealth Bank of AustraliaMarket Capitalisation
 ![common wealth bank market share](https://user-images.githubusercontent.com/105048228/168997192-22de77ce-e22e-4d80-a5ed-af496ffeea30.png)
 
 ###### The main competitors of Commonwealth Bank of Australia
