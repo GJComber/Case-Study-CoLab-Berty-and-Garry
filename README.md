@@ -67,4 +67,20 @@ To better understand the SWOT analysis of Commonwealth Bank, refer to the infogr
 
 ![image](https://user-images.githubusercontent.com/105048228/169197742-ea3c01f8-514e-4628-96b9-67abe95dc4ec.png)
 
+Source : https://iide.co/case-studies/swot-analysis-of-commonwealth-bank/
+
+## CBA had perceived record numbers of customers banking digitally
+
+- 7.5 million customers are now digitally active, an increase of 10 per cent since December 2018;
+- 6.3 million customers are using the CommBank app, as at December 2020, up from 5.9 million customers from the same time the year before;
+- For the month of December 2020, the number of app log-ins was 216 million, which translated to 6.95 million log-ins per day;
+- For the month of December 2020, app transactions per day were 1.7 million, equating to daily transactions of $1 billion;
+- Over 6 billion personalised in-app messages were sent to customers in 2020;
+- 731 million in-app messages were sent relating to COVID-19 support and information in 2020;
+- The Benefits finder service in CommBank app and NetBank has helped customers find more than $150 million annually in federal and state financial benefits with 2.9 million customers visiting the feature since its September 2019 launch and 920,000 claims commenced, of which 615,000 were commenced since COVID-19 began;
+- 6.4 million customers received crisis response messages in 2020 for incidents such as bushfires;
+- CBA’s Biz Express product has been fast-tracked to help small businesses get immediate access to funding to support and grow their operations as the country looks to recover from the worst effects of the coronavirus pandemic. BizExpress Online is available via NetBank and the CommBank app providing real time decisions and funding of up to $100k for customers in as little as 12 minutes.
+
+
+
 
