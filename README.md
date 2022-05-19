@@ -1,9 +1,5 @@
 # FINTECH CASE STUDY PAYSLIP FRAUD DETECTION USING MACHINE LEARNING AT COMMONWEALTH BANKOF AUSTRALIA
 
-![commonwealth-bank1-Jzue9f-800x450](https://user-images.githubusercontent.com/105048228/169200423-9e5d3ceb-0324-48d8-b8de-1b6ad66c7b72.jpeg)
-
-
-
-
+![cooperation-between-banks-and-fintechs-01](https://user-images.githubusercontent.com/105048228/169200568-1543285e-134c-423e-bfd9-1371548c6d39.jpg)
 
 
