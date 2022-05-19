@@ -24,5 +24,6 @@
 
 ###### 6. What is the prognosis for this company? Where do they expect to be in the future?
 
-Contributors :Berty Vidanapthirana And Gary Comber
+
+*Contributors :Berty Vidanapthirana And Gary Comber*
      
