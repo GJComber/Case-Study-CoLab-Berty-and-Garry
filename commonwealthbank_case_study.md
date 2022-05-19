@@ -69,7 +69,7 @@ To better understand the SWOT analysis of Commonwealth Bank, refer to the infogr
 
 Source : https://iide.co/case-studies/swot-analysis-of-commonwealth-bank/
 
-## CBA had perceived record numbers of customers banking digitally
+##### CBA had perceived record numbers of customers banking digitally
 
 - 7.5 million customers are now digitally active, an increase of 10 per cent since December 2018.
 - 6.3 million customers are using the CommBank app, as at December 2020, up from 5.9 million customers from the same time the year before.
