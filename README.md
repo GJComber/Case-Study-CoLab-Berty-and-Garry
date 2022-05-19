@@ -25,3 +25,31 @@ The main competitors of CBA are NAB, WBC and ANZ banks. As a market leader based
 ![main competitors of com bank](https://user-images.githubusercontent.com/105048228/168997861-590b5ac5-4bd7-4326-a42f-eec6af997a4d.png)
 
           
+## How does Commonwealth Bank Australia use technology to its advantage? Why are they considered a Fin Tech Company? 
+
+The banking industry in next decade will look very different from what it looks like today. Some clients will opt for an autonomous banking experience when they are poor in time, lack of knowledge and have high levels of trust in their bank to do the right thing and have the confidence in their digital competence to do what they promise they will do. It will be their choice and the winning Bank of the future will be adaptive to their customers dynamic needs and wants. The market leading banks of tomorrow will understand that technology will not limit what is possible. Banks make use digital capability to put their customers firmly in control of their destination and preferred model for dealing with their bank and other financial service providers.
+
+KPMG have partnered with the Commonwealth Bank of Australia and submitted The Future of Digital Banking Report. This report is designed to stimulate thinking about how the banking industry can be smarter and better, positively impacting to meets it customers changing needs and wants and enhance their financial wellbeing.  KPMG has looked 15 years into the future through our Emerging Technology systems and identified the following eight technological developments and capabilities as having the greatest potential impact on the bank-customer relationship by 2030.
+
+![8 emerging](https://user-images.githubusercontent.com/105048228/169196250-b4333ae9-70f9-4e26-89ed-ce916e37e3ba.png)
+Source: The- future- of- digital- banking- KPMG-CBA-report (2019)
+
+##### The Future of Digital Banking- CBA
+![modern banking](https://user-images.githubusercontent.com/105048228/169196477-eb249e68-8022-4c45-8058-0b03d44ed517.png)
+Source: The- future- of- digital- banking- KPMG-CBA-report (2019)
+
+The Commonwealth Bank of Australia (CBA) is a market leader in the area of total market capitalisation,  the Australian market in profitability, customer service and digital offerings. However, it has spectacularly failed when it has come to managing regulatory and reputational risk. In the past year, CBA faced an AUD 700 million (USD 500 million) settlement for 53,750 breaches of the Anti-Money Laundering and Counter-Terrorism Act, as well as a sarcastic report from the banking regulator on its risk and regulatory practices, the early resignation of its CEO and the scrutiny of a Royal Commission.
+In the last decades, the explosion of the volume of digital document images and the development of consumer tools to forge these images has led to a huge increase in the number of corrupted documents in the financial sector. The development of many tools and methods to detect modifications has also increased but benchmarking remains a challenge. With all the benefits it comes with, development of technologies has also an important side effect. For instance, number of amateur fraudsters has increased. Actually, it is quite accessible for many people to scan any loan contractual documents (payslip, bill, mortgage deeds etc.), modify one or several critical field (name, date, amount of money, etc.) and print it with common devices and basic software’s (MS Paint, Gimp, etc.).
+
+In recent years, fraud has been a significant issue in the banking, medical, insurance, and IT sectors. In the banking industry there has been an increase in online transactions through submitting required loan application documents such as payment slips, credit rating details, project reports, loan collaterals and etc. Similar risk of fraudulent activities increases in the fields of different payment options such as credit/debit cards, PhonePe, Gpay, Paytm, etc. Moreover, fraudsters have become proficient in finding loopholes that they then misuse. Hence it has become a challenging task to make a secure system for authentication and preventing fraud. This is where fraud detection algorithms powered by machine learning prove helpful.
+
+When customers apply for larger loans and mortgages, they usually have to supply supporting documents to prove that they hold the sufficient wealth (assets) and receive the respective income they claim. The financial institution must verify that these documents are legitimate as one of the steps in granting the loan request. Machine learning and artificial intelligence tools can help the bank's fraud detection team focus on the most likely fraudulent documents - it would be impossible to examine them all thoroughly. These tools can also be adapted as the methods of the fraudsters change over time.
+
+## Why CBA considered a fintech company?
+•Minimise frauds in the field of digital and online payment mechanism (credit/debit cards, PhonePe, Gpay, Paytm, etc), contractual loan documentation (payslip, bill, mortgage deeds, guarantor’s details documents etc.), Money Laundering and Terrorism funding, Phishing.
+•Fintech companies provide the banks with access to new capabilities (e.g. products, experience design, processes, systems,  people), in order to better serve customer needs.
+•Fintech companies offer the banks a faster speed to market than in-house development provides
+•They come with lower costs and investments, as transformation of legacy businesses isn’t required, and
+•They reduce project delivery risks, given that they plug into existing businesses.
+•Finally, Fintech company caused to maximise the overall of wealth to its stakeholders and economic wellbeing of the entire society. 
+
