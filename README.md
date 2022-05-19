@@ -32,6 +32,7 @@ The banking industry in next decade will look very different from what it looks 
 KPMG have partnered with the Commonwealth Bank of Australia and submitted The Future of Digital Banking Report. This report is designed to stimulate thinking about how the banking industry can be smarter and better, positively impacting to meets it customers changing needs and wants and enhance their financial wellbeing.  KPMG has looked 15 years into the future through our Emerging Technology systems and identified the following eight technological developments and capabilities as having the greatest potential impact on the bank-customer relationship by 2030.
 
 ![8 emerging](https://user-images.githubusercontent.com/105048228/169196250-b4333ae9-70f9-4e26-89ed-ce916e37e3ba.png)
+
 Source: The- future- of- digital- banking- KPMG-CBA-report (2019)
 
 ##### The Future of Digital Banking- CBA
