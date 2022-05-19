@@ -55,3 +55,16 @@ When customers apply for larger loans and mortgages, they usually have to supply
 - They reduce project delivery risks, given that they plug into existing businesses.
 - Finally, Fintech company caused to maximise the overall of wealth to its stakeholders and economic wellbeing of the entire society. 
 
+## Why is CBA exemplary in the FinTech space? What are their strengths and weaknesses?
+Commonwealth Bank Chief Executive Officer, Matt Comyn, today announced that the Bank is accelerating its digital strategy with a motivation to provide customers with one of the best digital experiences of any company globally.Speaking at CBA’s 2021 technology briefing at the Bank’s new tech hub at South Eveleigh in Sydney today, Mr Comyn said: “CBA wants to remain Australia’s clear leader in digital banking. We recognise customers are no longer just benchmarking us against other financial institutions. They compare us with the best digital experiences they get from any business in the world. We intend to be at the global forefront of the digital experience, and be the trusted partner at the centre of our customers’ financial lives. 
+
+CBA investment in technology including data, machine learning and artificial intelligence is giving us unique insights into each customer’s individual needs. Customers want more control over their financial affairs, more confidence they can achieve financial goals, and an ability to manage all of their financial life in one place. Today bank also announced that CBA has applied for accreditation to ingest data under the government’s Open Banking regime. The Consumer Data Right puts customers in control and will be a critical enabler of Australia’s future and the digital economy. CBA will continue to invest to support it and bring the benefits to CBA’s customers.
+
+## CBA Strengths in FINTECH SPACE
+##### SWOT Analysis of Commonwealth Bank
+SWOT analysis of Commonwealth Bank is the study of internal strengths, weaknesses, and external opportunities, and threats of the company. This will help the company understand strong factors for their growth, weakness, and threats to rectify them for further growth. 
+To better understand the SWOT analysis of Commonwealth Bank, refer to the infographics below :
+
+![image](https://user-images.githubusercontent.com/105048228/169197742-ea3c01f8-514e-4628-96b9-67abe95dc4ec.png)
+
+
