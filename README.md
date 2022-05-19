@@ -6,9 +6,9 @@
 
 ###### 1. Business Profile: Commonwealth Bank Australia
 
-######    1.1 Company Profile: Commonwealth Bank of Australia
+######       1.1 Company Profile: Commonwealth Bank of Australia
 
-######    1.2 The main competitors of Commonwealth Bank of Australia
+######       1.2 The main competitors of Commonwealth Bank of Australia
 
 ###### 2. How does Commonwealth Bank Australia use technology to its advantage? Why are they considered a Fin Tech Company? 
 
