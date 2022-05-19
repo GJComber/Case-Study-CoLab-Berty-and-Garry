@@ -48,10 +48,10 @@ In recent years, fraud has been a significant issue in the banking, medical, ins
 When customers apply for larger loans and mortgages, they usually have to supply supporting documents to prove that they hold the sufficient wealth (assets) and receive the respective income they claim. The financial institution must verify that these documents are legitimate as one of the steps in granting the loan request. Machine learning and artificial intelligence tools can help the bank's fraud detection team focus on the most likely fraudulent documents - it would be impossible to examine them all thoroughly. These tools can also be adapted as the methods of the fraudsters change over time.
 
 ## Why CBA considered a fintech company?
-•Minimise frauds in the field of digital and online payment mechanism (credit/debit cards, PhonePe, Gpay, Paytm, etc), contractual loan documentation (payslip, bill, mortgage deeds, guarantor’s details documents etc.), Money Laundering and Terrorism funding, Phishing.
-•Fintech companies provide the banks with access to new capabilities (e.g. products, experience design, processes, systems,  people), in order to better serve customer needs.
-•Fintech companies offer the banks a faster speed to market than in-house development provides
-•They come with lower costs and investments, as transformation of legacy businesses isn’t required, and
-•They reduce project delivery risks, given that they plug into existing businesses.
-•Finally, Fintech company caused to maximise the overall of wealth to its stakeholders and economic wellbeing of the entire society. 
+- Minimise frauds in the field of digital and online payment mechanism (credit/debit cards, PhonePe, Gpay, Paytm, etc), contractual loan documentation (payslip, bill, mortgage deeds, guarantor’s details documents etc.), Money Laundering and Terrorism funding, Phishing.
+- Fintech companies provide the banks with access to new capabilities (e.g. products, experience design, processes, systems,  people), in order to better serve customer needs.
+- Fintech companies offer the banks a faster speed to market than in-house development provides
+- They come with lower costs and investments, as transformation of legacy businesses isn’t required, and
+- They reduce project delivery risks, given that they plug into existing businesses.
+- Finally, Fintech company caused to maximise the overall of wealth to its stakeholders and economic wellbeing of the entire society. 
 
