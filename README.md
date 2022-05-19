@@ -36,6 +36,7 @@ Source: The- future- of- digital- banking- KPMG-CBA-report (2019)
 
 ##### The Future of Digital Banking- CBA
 ![modern banking](https://user-images.githubusercontent.com/105048228/169196477-eb249e68-8022-4c45-8058-0b03d44ed517.png)
+
 Source: The- future- of- digital- banking- KPMG-CBA-report (2019)
 
 The Commonwealth Bank of Australia (CBA) is a market leader in the area of total market capitalisation,  the Australian market in profitability, customer service and digital offerings. However, it has spectacularly failed when it has come to managing regulatory and reputational risk. In the past year, CBA faced an AUD 700 million (USD 500 million) settlement for 53,750 breaches of the Anti-Money Laundering and Counter-Terrorism Act, as well as a sarcastic report from the banking regulator on its risk and regulatory practices, the early resignation of its CEO and the scrutiny of a Royal Commission.
