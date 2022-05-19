@@ -71,15 +71,62 @@ Source : https://iide.co/case-studies/swot-analysis-of-commonwealth-bank/
 
 ## CBA had perceived record numbers of customers banking digitally
 
-- 7.5 million customers are now digitally active, an increase of 10 per cent since December 2018;
-- 6.3 million customers are using the CommBank app, as at December 2020, up from 5.9 million customers from the same time the year before;
-- For the month of December 2020, the number of app log-ins was 216 million, which translated to 6.95 million log-ins per day;
-- For the month of December 2020, app transactions per day were 1.7 million, equating to daily transactions of $1 billion;
-- Over 6 billion personalised in-app messages were sent to customers in 2020;
+- 7.5 million customers are now digitally active, an increase of 10 per cent since December 2018.
+- 6.3 million customers are using the CommBank app, as at December 2020, up from 5.9 million customers from the same time the year before.
+- For the month of December 2020, the number of app log-ins was 216 million, which translated to 6.95 million log-ins per day.
+- For the month of December 2020, app transactions per day were 1.7 million, equating to daily transactions of $1 billion.
+- Over 6 billion personalised in-app messages were sent to customers in 2020.
 - 731 million in-app messages were sent relating to COVID-19 support and information in 2020;
-- The Benefits finder service in CommBank app and NetBank has helped customers find more than $150 million annually in federal and state financial benefits with 2.9 million customers visiting the feature since its September 2019 launch and 920,000 claims commenced, of which 615,000 were commenced since COVID-19 began;
-- 6.4 million customers received crisis response messages in 2020 for incidents such as bushfires;
+- The Benefits finder service in CommBank app and NetBank has helped customers find more than $150 million annually in federal and state financial benefits with 2.9 million customers visiting the feature since its September 2019 launch and 920,000 claims commenced, of which 615,000 were commenced since COVID-19 began.
+- 6.4 million customers received crisis response messages in 2020 for incidents such as bushfires.
 - CBA’s Biz Express product has been fast-tracked to help small businesses get immediate access to funding to support and grow their operations as the country looks to recover from the worst effects of the coronavirus pandemic. BizExpress Online is available via NetBank and the CommBank app providing real time decisions and funding of up to $100k for customers in as little as 12 minutes.
+
+
+## CBA weaknesses in FINTECH SPACE
+- Need to Invest More in New Technologies: According to the country’s scale of expansion and the geographical areas Commonwealth Bank needs to invest more money in technology to integrate the processes across the board. Currently, the investment in technology is not on par as per the vision of the company.
+- Limited Success Across the Core Business: Although Commonwealth Bank is one of the leading organizations in its industry it faces challenges in moving to other product segments with its present culture.
+- Cash Flow Problems: There is a lack of proper financial planning at Commonwealth Bank regarding cash flows, leading to certain circumstances where there isn’t enough cash flow as required leading to unnecessary unplanned borrowing.
+- Environmental Criticism: Commonwealth Bank has been criticized several times by environmental activists for financing oil sands extractions that cause negative effects on the environment and human health.
+- Competitor Technical Advancements: New technological advancements by a few competitors within the sector constitutes a threat to Commonwealth Bank since customers who are drawn to this new technology may switch to competitors, reducing Commonwealth Bank’s overall market share.
+- Controversies & Allegations: Commonwealth Bank has been in more than 10+ controversies including the 2008 financial planning scandal, money laundering scandal, Bank bill swap rate allegations and many more. Recently, Commonwealth Bank has been sued by an Indonesian family for launching fake money laundering scams.
+
+## What is the prognosis for this company? Where do they expect to be in the future?
+Banking in 2030 CBA will become a trusted interface for life, embedded within the needs and lifestyles of consumers Delivery and experience re-defined by 2030 Data will underpin the delivery of seamless, integrated experiences that span beyond banking to anticipate and satisfy other customer needs. Data will be at the heart of how banks deliver new forms of value to customers and how they will make money in 2030 (in response to emerging consumer needs around their personal data). Setting banking within the consumers everyday needs, lifestyles and life-stages will be key - as will providing and creating financial services (and other services) to meet the immediate satisfaction of these demands.
+
+## Everything and everyone will be connected
+By 2030 a hyper-connected world will be the norm. Consumers will be interacting with their service providers through voice and personal assistants, facial recognition and wearable devices. Every engagement point of our lives will become a service. CBA of the Future proactively switching your subscriptions with non-banking services because they found a better offer available than your current provider. This could include the management of utilities and services in your home. With usage patterns well known through smart meters, banks can analyse providers’ offers based on peak pricing and volume discounts, switching providers in the background as better deals become available. Conversely, entities from other sectors will also be trying to offer their customers the ability to optimise financial services.
+
+## The rise of AI
+Algorithms and data models will be built around optimising financial outcomes for customers and will frequently strengthen positive behaviours through ‘nudging’ individuals to do certain things. For example, supporting sectors of the population that are time poor and are seeking greater convenience, as well as preventing susceptible customers from making poor financial decisions. These nudges will be universal, and not restricted to certain segments of customers.
+
+## Distributed Trust
+The CBA of the Future will be able to lead the redefinition and pashion of trust, leveraging their heritage and experience to gain a distinct advantage over newer entrants. Through the delivery of services enabled by digital identity and DLT - customers can trust that the automation and decisions made on their behalf are noticeable, reconcilable and crystal clear to them. This will help consumers manage their increasingly complex and fragmented lives.
+
+## The ‘super-app’
+The quest to create a ‘super-app’ or virtual service that can combine digital confidence, privacy, access control and can enable products and services has significant implications, as it allows successful entities to keep customers within their ecosystems for nearly all their activities, and away from their competitors.
+
+## Payments
+Intelligent payment financing facilities that dynamically assign rates, and extend context relevant credit linked to the transaction type and spend are presented to consumers as an extension of buy now, pay later services. Customers’ credit assessments will be far more holistic and will update in real-time, taking inputs such as lifestyle habits, purchase history and predictive analytics. Credit products will be far more tailored to an individual, providing customers with flexible repayment plans for each transaction while integrating rewards programs based on their credit rating. Transaction experiences will not differ between transferring between friends, or between continents. The biggest change is in the global B2C commerce space as consumers will be free to spend overseas with international merchants without incurring foreign exchange fees.
+
+## AI-driven cyber security
+By 2030, CBA cyber security will be built around enterprise-wide predictive analytics, security susceptibility and threat recognition, all powered by AI. Imagine AI redefining the assessment of online security vulnerabilities as it identifies and remediates security issues in real-time, preventing hackers from exploiting vulnerabilities.
+
+## Digital currencies
+The rise of digital currencies (and tokens) that will be issued by central banks and corporate players will further accelerate the transformation of products and services. This digitisation of money will bring greater financial inclusion overall, broader transparency and better real-time transaction processing and settlement.
+
+## List of references
+
+CBA Annual Report 2021
+The- future- of- digital- banking- KPMG-CBA-report (2019)
+http://www.commbank.com.au/
+https://datanalysis-morningstar-com-au.ap1.proxy.openathens.net/af/company/annualreport/
+https://www.fintechaustralia.org.au/
+https://iide.co/case-studies/swot-analysis-of-commonwealth-bank/
+
+
+
+
+
 
 
 
