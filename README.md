@@ -6,7 +6,7 @@
 
 ###### 1. Business Profile: Commonwealth Bank Australia
 
-######       1.1 Company Profile: Commonwealth Bank of Australia
+- Company Profile: Commonwealth Bank of Australia
 
 ######       1.2 The main competitors of Commonwealth Bank of Australia
 
